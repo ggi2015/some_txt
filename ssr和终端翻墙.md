@@ -111,6 +111,26 @@ sudo dpkg -i electron-ssr-0.2.6.deb
    
    ```
 
+ 
+panduan zhongduan fanqian shifou chenggong 
+
+```
+sudo apt install curl  
+curl cip.cc
+chuxian ruxia, biaoming chenggong:
+IP	: 104.xxx.187.xxx
+地址	: 美国  加利福尼亚州  洛杉矶
+运营商	: it7.net
+
+数据二	: 美国 | 洛杉矶
+
+数据三	: 美国加利福尼亚洛杉矶
+
+URL	: http://www.cip.cc/104.xxx.187.xx
+
+```  
+
+
    
 
 

@@ -22,3 +22,6 @@ cudnn下载：
 （建议配合教程食用（上网上搜））
 
  
+[cuda100版本的pytorch]( pip install torch==1.4.0+cu100 torchvision==0.5.0+cu100 -f https://download.pytorch.org/whl/torch_stable.html)  
+[tf115](pip install tensorflow-gpu==1.15)  
+
